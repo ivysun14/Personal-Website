@@ -13,8 +13,6 @@ website:
         text: Home
       - href: about.qmd
         text: About
-      - href: analysis.qmd
-        text: Example analysis
 
 format:
   html:
@@ -23,6 +21,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-
-

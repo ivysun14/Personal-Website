@@ -1,13 +1,19 @@
 Author of website: Junwei (Ivy) Sun  
-Link to the website: https://ivysun14.github.io/biostat777-intro-Junwei-Sun/
+Link to the website: https://ivysun14.github.io/Personal-Website/
 
-This website was created with Quarto and deployed with Github Pages. The website currently contains 3 separate pages: 
-- **Home** - where visitors land when accessing the website
-- **About** - more details on self-introduction
-- **Example analysis** - a simple R survival data analysis
+Personal academic website built with [Quarto](https://quarto.org) and deployed with GitHub Pages.
 
-For publishing, GitHub Pages was used with the following procedures: 
-1. The website was first rendered to `docs/` locally using `quarto render`
-2. A `.nojekyll` file was added to the root of `docs/` so that GitHub Pages was told to not do additional processing of the published site using Jekyll
-3. The `docs/` directory was then committed and pushed to the repository
-4. Configured 'settings' in the GitHub repository so it knows to publish from the docs directory of the main branch
+Pages:
+- **Home** – short introduction and links (LinkedIn, GitHub)
+- **About** – background, education, and experience
+
+Repository layout:
+- `junwei_sun/` – Quarto source (`_quarto.yml`, `index.qmd`, `about.qmd`, `styles.css`, photo)
+- `docs/` – rendered site served by GitHub Pages (do not edit by hand)
+
+To update the site:
+1. Edit the `.qmd` files in `junwei_sun/`
+2. Run `quarto render` inside `junwei_sun/` (output goes to `docs/`; `docs/.nojekyll` tells GitHub Pages to skip Jekyll)
+3. Commit and push `junwei_sun/` and `docs/`
+
+GitHub Pages is configured to publish from the `docs/` directory of the `main` branch.
