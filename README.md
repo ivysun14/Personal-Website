@@ -6,14 +6,15 @@ Personal academic website built with [Quarto](https://quarto.org) and deployed w
 Pages:
 - **Home** – short introduction and links (LinkedIn, GitHub)
 - **About** – background, education, and experience
+- **Publications** – preprints and peer-reviewed articles
 
 Repository layout:
-- `junwei_sun/` – Quarto source (`_quarto.yml`, `index.qmd`, `about.qmd`, `styles.css`, photo)
+- `website/` – Quarto source (`_quarto.yml`, `index.qmd`, `about.qmd`, `styles.css`, photo)
 - `docs/` – rendered site served by GitHub Pages (do not edit by hand)
 
 To update the site:
-1. Edit the `.qmd` files in `junwei_sun/`
-2. Run `quarto render` inside `junwei_sun/` (output goes to `docs/`; `docs/.nojekyll` tells GitHub Pages to skip Jekyll)
-3. Commit and push `junwei_sun/` and `docs/`
+1. Edit the `.qmd` files in `website/`
+2. Run `quarto render` inside `website/` (output goes to `docs/`; `docs/.nojekyll` tells GitHub Pages to skip Jekyll)
+3. Commit and push `website/` and `docs/`
 
 GitHub Pages is configured to publish from the `docs/` directory of the `main` branch.

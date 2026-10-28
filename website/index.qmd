@@ -1,0 +1,15 @@
+---
+title: "Junwei (Ivy) Sun"
+image: selfie.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/junwei-sun-966832218/
+    - icon: github
+      text: Github
+      href: https://github.com/ivysun14
+---
+
+My name is Junwei (Ivy) Sun and I am originally from Shanghai, China. I am a second-year Biostatistics PhD student at Johns Hopkins University with interests in genomics, AI/ML, and their intersection (perhaps this falls under AI for Science:). Currently I am exploring the use of agentic AI to accelerate scientific workflows and discovery, and I am equally interested in statistical tools that assess when such systems can be trusted. The main focus area I have explored is single-cell perturbation modeling, where I benchmark published perturbation models and audit frontier coding agents on how they approach this open biological problem.

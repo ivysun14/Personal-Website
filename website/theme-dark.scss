@@ -1,0 +1,10 @@
+/*-- scss:defaults --*/
+// Overrides applied on top of the "darkly" theme in dark mode only.
+$navbar-bg: #222222;          // match darkly's page background instead of its teal-blue primary
+$navbar-fg: #e6e6e6;          // navbar text color
+$navbar-hl: #ffffff;          // navbar link hover/active color
+
+/*-- scss:rules --*/
+.navbar {
+  border-bottom: 1px solid #3a3a3a;   // thin divider so the navbar still reads as a bar
+}

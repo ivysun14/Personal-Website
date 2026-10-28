@@ -23,8 +23,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Junwei Sun",
+    "title": "Junwei (Ivy) Sun",
     "section": "",
-    "text": "My name is Junwei (Ivy) Sun and I am originally from Shanghai, China. I am a first-year PhD student in the department of Biostatistics at Johns Hopkins University, and my research interests lie at the intersection of machine learning and genomics. In my free time, I enjoy horseback riding and have recently started climbing/bouldering!"
+    "text": "My name is Junwei (Ivy) Sun and I am originally from Shanghai, China. I am a second-year Biostatistics PhD student at Johns Hopkins University with interests in genomics, AI/ML, and their intersection (perhaps this falls under AI for Science:). Currently I am exploring the use of agentic AI to accelerate scientific workflows and discovery, and I am equally interested in statistical tools that assess when such systems can be trusted. The main focus area I have explored is single-cell perturbation modeling, where I benchmark published perturbation models and audit frontier coding agents on how they approach this open biological problem."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Beyond Expression Prediction: Benchmarking Differential Expression Classification in Single-Cell Perturbation Models Junwei Sun, Yuxun He, Ouyang Zhu, Yiqun T. Chen bioRxiv, July 2026. doi:10.64898/2026.07.20.739620"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "Beyond Expression Prediction: Benchmarking Differential Expression Classification in Single-Cell Perturbation Models Junwei Sun, Yuxun He, Ouyang Zhu, Yiqun T. Chen bioRxiv, July 2026. doi:10.64898/2026.07.20.739620"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-articles",
+    "href": "publications.html#peer-reviewed-articles",
+    "title": "Publications",
+    "section": "Peer-reviewed articles",
+    "text": "Peer-reviewed articles\nResults of a phase 1 trial testing ruxolitinib plus venetoclax in patients with relapsed/refractory acute myeloid leukemia Uma Borate, Cristina E. Tognon, Yazan F. Madanat, Shikha Misra, Andy Kaempf, Prapti A. Patel, Kara L. Davis, Junwei Sun, Lucille Stuani, Eric D. Eisenmann, Christopher A. Eide, Stephen E. Kurtz, Kevin Watanabe-Smith, Kara Johnson, Astraea Jager, Stein-Erik Gullaksen, Bridget Robinson, Tania Vu, Sylvia K. Plevritis, Sharyn D. Baker, Jessica Minnier, Peter Clement, Sammantha Avaylon, Madison Hayes, Laura F. Newell, Arpita P. Gandhi, Jessica Leonard, Brandon Hayes-Lattin, Sumithira Vasu, Rachel J. Cook, Gabrielle Meyers, Richard T. Maziarz, Elie Traer, Ronan Swords, Jeffrey W. Tyner, Brian J. Druker, Jennifer N. Saultz Blood Neoplasia, 3(2):100205, 2026. doi:10.1016/j.bneo.2026.100205\nMolecular characterization of the sea lamprey retina illuminates the evolutionary origin of retinal cell types Junqiang Wang, Lin Zhang, Martina Cavallini, Ali Pahlevan, Junwei Sun, Ala Morshedian, Gordon L. Fain, Alapakkam P. Sampath, Yi-Rong Peng Nature Communications, 15:10761, 2024. doi:10.1038/s41467-024-55019-x"
   }
 ]

@@ -6,18 +6,20 @@ execute:
   freeze: auto  # re-render only when source changes
 
 website:
-  title: "Hello!"
+  title: "Junwei (Ivy) Sun"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
+      - href: publications.qmd
+        text: Publications
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: [darkly, theme-dark.scss]
     css: styles.css
     toc: true

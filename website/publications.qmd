@@ -1,0 +1,20 @@
+---
+title: "Publications"
+toc: false
+---
+
+## Preprints
+
+**Beyond Expression Prediction: Benchmarking Differential Expression Classification in Single-Cell Perturbation Models**<br>
+**Junwei Sun**, Yuxun He, Ouyang Zhu, Yiqun T. Chen<br>
+*bioRxiv*, July 2026. [doi:10.64898/2026.07.20.739620](https://doi.org/10.64898/2026.07.20.739620)
+
+## Peer-reviewed articles
+
+**Results of a phase 1 trial testing ruxolitinib plus venetoclax in patients with relapsed/refractory acute myeloid leukemia**<br>
+Uma Borate, Cristina E. Tognon, Yazan F. Madanat, Shikha Misra, Andy Kaempf, Prapti A. Patel, Kara L. Davis, **Junwei Sun**, Lucille Stuani, Eric D. Eisenmann, Christopher A. Eide, Stephen E. Kurtz, Kevin Watanabe-Smith, Kara Johnson, Astraea Jager, Stein-Erik Gullaksen, Bridget Robinson, Tania Vu, Sylvia K. Plevritis, Sharyn D. Baker, Jessica Minnier, Peter Clement, Sammantha Avaylon, Madison Hayes, Laura F. Newell, Arpita P. Gandhi, Jessica Leonard, Brandon Hayes-Lattin, Sumithira Vasu, Rachel J. Cook, Gabrielle Meyers, Richard T. Maziarz, Elie Traer, Ronan Swords, Jeffrey W. Tyner, Brian J. Druker, Jennifer N. Saultz<br>
+*Blood Neoplasia*, 3(2):100205, 2026. [doi:10.1016/j.bneo.2026.100205](https://doi.org/10.1016/j.bneo.2026.100205)
+
+**Molecular characterization of the sea lamprey retina illuminates the evolutionary origin of retinal cell types**<br>
+Junqiang Wang, Lin Zhang, Martina Cavallini, Ali Pahlevan, **Junwei Sun**, Ala Morshedian, Gordon L. Fain, Alapakkam P. Sampath, Yi-Rong Peng<br>
+*Nature Communications*, 15:10761, 2024. [doi:10.1038/s41467-024-55019-x](https://doi.org/10.1038/s41467-024-55019-x)
